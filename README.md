@@ -27,5 +27,18 @@ Add / Delete tasks functionality
 ✔ User-friendly GUI
 
 ✔ Scrollable task list
+##SAMPLE OUTPUT
+ -------------------------------------------------
+|                 To-Do List App                   |
+ -------------------------------------------------
+|  [ Enter task here...                 ] [Add]    |
+ -------------------------------------------------
+|  • Buy groceries                                 |
+|  • Finish Java project                           |
+|  • Call friend                                   |
+ -------------------------------------------------
+|                     [Delete]                     |
+ -------------------------------------------------
+
 
 ✔ Simple & clean layout
