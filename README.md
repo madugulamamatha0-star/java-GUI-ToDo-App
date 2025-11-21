@@ -17,3 +17,15 @@ JButton
 JTextField
 
 Add / Delete tasks functionality
+
+## Features
+
+✔ Add tasks
+
+✔ Delete selected tasks
+
+✔ User-friendly GUI
+
+✔ Scrollable task list
+
+✔ Simple & clean layout
